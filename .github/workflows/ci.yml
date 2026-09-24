@@ -1,4 +1,4 @@
-name: CI
+name: Add CI pipeline using GitHub Actions
 
 on:
   push:
